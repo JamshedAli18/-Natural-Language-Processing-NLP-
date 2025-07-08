@@ -22,7 +22,3 @@ This repository contains my practice files for learning Natural Language Process
 - pandas, NumPy
 - Keras / TensorFlow
 
-## 🚀 How to Run
-
-```bash
-python filename.py
