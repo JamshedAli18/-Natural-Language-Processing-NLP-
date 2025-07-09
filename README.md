@@ -9,7 +9,7 @@ This repository contains my practice files for learning Natural Language Process
 - Named Entity Recognition (NER)
 - POS tagging
 - Sentiment Analysis
-- Text classification
+- Text classification 
 - Word Embeddings
 - RNNs, LSTMs (basic)
 
