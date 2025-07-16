@@ -16,7 +16,7 @@ This repository contains my practice files for learning Natural Language Process
   
 ## 🔧 Tools & Libraries
 
-- NLTK
+- NLTK 
 - spaCy
 - scikit-learn
 - pandas, NumPy
