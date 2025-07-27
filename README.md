@@ -7,7 +7,7 @@ This repository contains my practice files for learning Natural Language Process
 - Text preprocessing (tokenization, stopwords, stemming, lemmatization)
 - Bag of Words & TF-IDF
 - Named Entity Recognition (NER)
-- POS tagging
+- POS tagging 
 - Sentiment Analysis
 - Text classification 
 - Word Embeddings
