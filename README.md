@@ -8,7 +8,7 @@ This repository contains my practice files for learning Natural Language Process
 - Bag of Words & TF-IDF
 - Named Entity Recognition (NER)
 - POS tagging 
-- Sentiment Analysis
+- Sentiment Analysis 
 - Text classification 
 - Word Embeddings
 - RNNs, LSTMs (basic)
