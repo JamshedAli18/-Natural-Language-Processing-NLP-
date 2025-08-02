@@ -10,7 +10,7 @@ This repository contains my practice files for learning Natural Language Process
 - POS tagging 
 - Sentiment Analysis 
 - Text classification 
-- Word Embeddings
+- Word Embeddings 
 - RNNs, LSTMs (basic)
 
   
